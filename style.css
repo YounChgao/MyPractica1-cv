@@ -1,1 +1,53 @@
+.header {
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
 
+.header-item {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.profile-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.profile-info {
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid black;
+}
+
+.profile-info-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.footer {
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.footer-item {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+img {
+    border: 1px solid black;
+}
